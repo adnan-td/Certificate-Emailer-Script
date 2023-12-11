@@ -6,4 +6,12 @@ venv
 
 ./CertificatesList.xlsx
 
-./pdfs
+pdfs
+
+temp.py
+
+output.png
+
+failedMails.json
+
+.env

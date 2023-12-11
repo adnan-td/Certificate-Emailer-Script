@@ -14,4 +14,6 @@ Fully customisable (Use your own data sets, emails and passwords)
 
 ### `pip install requirements.txt`
 
+### Create env file and add `SENDER_EMAIL` and `SENDER_PASSWORD`
+
 ### `python main.py`
